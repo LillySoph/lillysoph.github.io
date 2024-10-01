@@ -1,1 +1,5 @@
 site_name: My Docs
+theme: bootstrap4
+plugins:
+ - bootstrap4-blockquotes
+ - bootstrap4-tables
